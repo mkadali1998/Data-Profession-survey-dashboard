@@ -6,6 +6,7 @@ The dashboard highlights **Count of Survey Takers, Their Average Age, Their Coun
 ---
 
 ## 📸 Dashboard Preview
+- `dashboard-preview.jpeg`
 
 ---
 
@@ -18,7 +19,7 @@ The dashboard highlights **Count of Survey Takers, Their Average Age, Their Coun
 ## 📂 Files in Repo
 - `Data-survey-dashboard.pbix` → Power BI file  
 - `Power BI - Final Project.xlsx` → Data used  
-- `screenshots/` → Dashboard images  
+- `dashboard-preview.jpeg` → Dashboard image 
 
 ---
 
