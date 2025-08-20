@@ -1,4 +1,3 @@
-# Data-Profession-Survey-Dashboard
 # 📊 Power BI Dashboard – Data Profession Survey Analytics
 
 This project showcases a **Power BI dashboard** built to analyze DataProfession Survey data and provide actionable insights.  
